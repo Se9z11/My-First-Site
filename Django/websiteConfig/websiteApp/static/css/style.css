@@ -112,7 +112,8 @@ input[type=checkbox]{
 .menu { 
     display:none;       
     position: absolute;     
-    background-color:#3d3d3d;      
+    background-color:#3d3d3d;   
+    top: 78px;   
     right: 0;       
     left: 0;        
     text-align: center;     
@@ -145,5 +146,14 @@ input[type=checkbox]:checked ~ .menu{
 
 .dropdown li:hover {
     background-color: #505050;}
+
+
+.myparagraph{
+    margin-left: 30px;
+    width: 50%;
+    }
 }
+
+
     /*------------------------------------------------ */ 
+
